@@ -5,7 +5,7 @@ Checkout the free Coursera Course by Princeton:
 * <a href="https://www.coursera.org/learn/algorithms-part1"  target="_blank"> Algorithms Part I </a>
 * <a href="https://www.coursera.org/learn/algorithms-part2"  target="_blank"> Algorithms Part II </a>
 
-__Note__: The programs use API's provided in <a href="https://algs4.cs.princeton.edu/code/algs4.jar">algs4.jar</a> (More info </a href="https://algs4.cs.princeton.edu/code/"> here</a>).
+__Note__: The programs use API's provided in <a href="https://algs4.cs.princeton.edu/code/algs4.jar">algs4.jar</a> (More info <a href="https://algs4.cs.princeton.edu/code/"> here </a>).
 
 The repo contains submission files with assessment report.
 I have included my implemetations of Iterative Merge sort and 3 way quick sort (whick also use API's provided in algs4.jar).
