@@ -11,33 +11,43 @@ The repo contains submission files with assessment report.
 I have included my implemetations of Iterative Merge sort and 3 way quick sort (whick also use API's provided in algs4.jar).
 
 1. __Percolation__: Designing a percolation model using union find. Analysis using Monte Carlo method.
+
 Assessment_Report: <em>100.0%</em>
 
 2. __Queues__: Implemetations of Dequeue and Randomized Queue.
+
 Assessment_Report: <em>100.0%</em>
 
 3. __Collinear__: Design and compare Brute force and sorting based implementations for finding collinear points.
+
 Assessment_Report: <em>100.0%</em>
 
 4. __8Puzzle__: Using priority queues to solve 8Puzzle game.
+
 Assessment_Report: <em>100.0%</em>
 
 5. __KdTree__: Designing a BST solution for range search in a 2D plane.
+
 Assessment_Report: <em>100.0%</em>
 
 6. __Wordnet__: Creating a wornet digrapgh from a dictionary to find shortest common ancestor for words.
+
 Assessment_Report: <em>100.0%</em>
 
 7. __SeamCarving__: Removing lowest energy seams from pictures using shortest path in DAG's.
+
 Assessment_Report: <em>101.18%</em>
 
 8. __BaseballElimination__: Finding eliminated baseball teams in a season using maxflow in digraph.
+
 Assessment_Report: <em>100.0%</em>
 
 9. __Boggle__: Solving a boggle game using tries.
+
 Assessment_Report: <em>100.0%</em>
 
 10. __BurrowWheeler__: Implementing the Burrow Wheeler Compression algorithm.
+
 Assessment_Report: <em>100.0%</em>
 
 Specifications and Requirements for all assignments can be found at:
